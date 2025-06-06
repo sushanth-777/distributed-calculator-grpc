@@ -1,0 +1,8 @@
+/Users/sushanth/Documents/distributed-calculator-grpc/build/CMakeFiles/edit_cache.dir
+/Users/sushanth/Documents/distributed-calculator-grpc/build/CMakeFiles/rebuild_cache.dir
+/Users/sushanth/Documents/distributed-calculator-grpc/build/server/CMakeFiles/calculator_server.dir
+/Users/sushanth/Documents/distributed-calculator-grpc/build/server/CMakeFiles/edit_cache.dir
+/Users/sushanth/Documents/distributed-calculator-grpc/build/server/CMakeFiles/rebuild_cache.dir
+/Users/sushanth/Documents/distributed-calculator-grpc/build/client/CMakeFiles/calculator_client.dir
+/Users/sushanth/Documents/distributed-calculator-grpc/build/client/CMakeFiles/edit_cache.dir
+/Users/sushanth/Documents/distributed-calculator-grpc/build/client/CMakeFiles/rebuild_cache.dir

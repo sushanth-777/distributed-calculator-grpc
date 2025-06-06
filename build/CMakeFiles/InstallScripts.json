@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/sushanth/Documents/distributed-calculator-grpc/build/cmake_install.cmake",
+		"/Users/sushanth/Documents/distributed-calculator-grpc/build/server/cmake_install.cmake",
+		"/Users/sushanth/Documents/distributed-calculator-grpc/build/client/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
