@@ -12,7 +12,7 @@ This project demonstrates:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - C++
 - gRPC
 - Protocol Buffers
