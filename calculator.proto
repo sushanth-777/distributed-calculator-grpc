@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package calculator;
+
+//1. Service Definition(like an interface)
+service Calculator{
+    rpc Add(Operands) returns (Result);
+    rpc Multiply(Operands) returns (Result);
+    rpc Divide(Operands) returns (Result);
+}
+
+//2. Message(Data format)
+message Operands{
+    int32 a = 1;
+    int32 b = 2;
+}
+
+message Result{
+    int32 value = 1;
+}
